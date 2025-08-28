@@ -1,3 +1,3 @@
 # Manyshankar-food-
 restaurent
-https://manushankar20.github.io/Manyshankar-food-/
+https://manyshankar.github.io/Manyshankar-food-/
